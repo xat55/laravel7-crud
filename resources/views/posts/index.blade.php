@@ -18,6 +18,7 @@
       <th scope="col">Название</th>
       <th scope="col">Описание</th>
       <th scope="col">Цена</th>
+      <th scope="col" class="th-view">Действия</th>
     </tr>
   </thead>
   <tbody>
