@@ -1,17 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Nunito);@charset "UTF-8";
 
-.table-buttons {
-  text-align: right;
-}
-
-.table-buttons form {
-  display: contents;
-}
-
-.th-view {
-  text-align: center;
-}
-
 /*!
  * Bootstrap v4.5.2 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
@@ -10909,5 +10897,17 @@ a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
+}
+
+.table-buttons {
+  text-align: right;
+}
+
+.table-buttons form {
+  display: contents;
+}
+
+.th-view {
+  text-indent: 550px;
 }
 
